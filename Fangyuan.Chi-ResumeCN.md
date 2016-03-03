@@ -22,7 +22,7 @@ Skype: chi.fyc89@gmail.com
 基于互联网的O2O项目，由小游带领寻找本地（温哥华）最美的夕阳与最好吃的各国料理；提供网站，商家后台以及iOS客户端等成套解决方案，支持线上支付，关键字搜索等功能。
 
 * 与IT 6人团队合作，主要负责线上线下项目后台开发，参与并搭建核心框架， 包括系统安全,  数据结构，交互协议，等等； 整合第三方API ，包括线上支付： Stripe，第三方账号登录：微信与Facebook， 基于JQuery UI的自定义前端日历，等等；
-* 参与从前端／IOS客户端到服务器端的整体软件开发流程，为客户端提供服务器端API支持；
+* 参与从前端／ios客户端到服务器端的整体软件开发流程，为客户端提供服务器端API支持；
 * 对框架进行持续性的优化，担任技术研究，提供技术改进方案；
 * 负责与市场部对接，参与讨论商业模式，分析项目需求，制定开发计划及具体工作安排。
     
@@ -49,5 +49,5 @@ Skype: chi.fyc89@gmail.com
 * 熟练掌握 Java, SQL, HTML5/XHTML, JavaScript/JQuery, C++ and VHDL等语言；
 * 熟练掌握 REST, Java REST client API for Android, Velocity, PrimeFaces, JFreeChart, Lucene, and MongoDB, JQuery UI, Stripe 等API；
 * 熟练掌握 Spring, Grails, AngularJS 等框架；
-* 熟练掌握 Eclipse, IntelliJ IDEA, Visual Studio, SVN, Github, and JIRA 等开发工具；
+* 熟练掌握 Eclipse, IntelliJ IDEA, Visual Studio, SVN, Github, 与 JIRA 等开发工具；
 
