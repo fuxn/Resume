@@ -2,7 +2,7 @@
 
 Email: chi.fyc89@gmail.com   
 
-Skype ID: fangyuan.chi 
+Skype: chi.fyc89@gmail.com 
 
 Cell: +1(778) 681 - 8922
 
@@ -40,7 +40,7 @@ Researched mainly on peer-assisted and component-based cloud gaming systems.
     * 1) “Ad hoc cloudlet based cooperative cloud gaming,” accepted by Transaction on Cloud Computing (TCC); 
     * 2) “Ad hoc cloudlet based cooperative cloud gaming,” in Proceedings of IEEE 6th International Conference on Cloud Computing Technology and Science (CloudCom), Singapore, Dec. 15-18, 2014. **Best Paper Award**.
     
-*Used: Latex, Matlab, Gurobi, JAVA, and other research methodologies.*  
+*Used: Java, Latex, Matlab, Gurobi, and other research methodologies.*  
 
 
 ##### **Research and Development Engineer @Tsinghua University (Beijing, China)    Jul. 2011-Aug. 2013**
