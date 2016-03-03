@@ -23,7 +23,7 @@ Cell: +1(778) 681 - 8922
 
 ## Professional Experience
 
-##### **Java Developer Lead @Yidai Media Corporation (Vancouver, Canada)  Jul. 2015-Jan. 2016**
+##### **Java Engineer @Yidai Media Corporation (Vancouver, Canada)  Jul. 2015-Feb. 2016**
 Platforms that provide online-to-offline (O2O) shared economy services, which focus on local food searching and short/long distance trip, etc.; currently has over thousand cooperating restaurants, near hundred planned trip events, and a steady growing number of users.
     
 * Worked (with a team of six developers/designers) mainly on developing the back-end of the platform; Worked on different APIs for components such as online payment (stripe), social network authentication (WeChat and Facebook), customized front-end calendar (JQuery UI), content indexing (Lucene), etc.; Implemented Restful APIs to support the in-house built IOS application 
@@ -51,16 +51,6 @@ Web-based Manufacturing Execution System (MES): a decomposed and reconfigurable 
 * Prepared technical requirement documents based on information gathered from customers and industry; involved in post-delivery support.
 
 *Used: Java EE (Spring, JSF), Jboss, Hibernate, Lucene, MongoDB, XHTML/CSS, JavaScript/JQuery, REST.*  
-
-
-##Technical Projects:
-
-* **Distributed Key-Value Store** (2014). Key-value pairs are partitioned and replicated using consistent hashing; The consistency and status of the dataset are maintained using gossip protocol. (Java);
-* **Chat Room** (2014). A server-client chatting room based on Java RMI): Worked with a team of three; Designed, implemented, and dealt with the remote interface, fault recovery mechanisms, and concurrency problem of the chat room.(Java);
-* **Robocode Learning Robot** (2013). A Robocode tank robot that competes with other robots on the battlefield; Implemented the robot using machine-learning mechanisms (Reinforcement Learning and a Neural Network) so that it could learn and improve its strategy on the battlefield to perform better over time. (Java);
-* **City Animation** (2012). A renderer and parser for an animation of a city, which also contains a model of a building. The animation of the city features dynamic lighting and fast rendering (C++, GLUT);
-* **Elevator System Simulator** (2011). A Java simulator that simulates up to 10 elevators and an unlimited number of floors. Implemented dynamic, real-time updating statistics for passenger requests and floor requests (Java);
-   
 
 ## Languages and Technologies
 
