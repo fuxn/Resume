@@ -9,7 +9,7 @@ Cell: +1(778) 681 - 8922
 
 ## Brief Summary
 
-* One and half year of industrial experience in development of web-based applications, android applications and distributed systems; Experienced in developing software products using Java, HTML5/XHTML, JavaScript/JQuery, JQuery UI, Velocity, AngularJS, Spring Framework, MongoDB, MVC, Lucene, Servlets, SQL, Hibernate, and Tomcat/Jboss Web Servers;
+* One and half year of industrial experience in development of web-based applications, android applications and distributed systems; Experienced in developing software products using Java, HTML5/XHTML, JavaScript/JQuery, JQuery UI, Velocity, AngularJS, Spring Framework, MongoDB, MVC, Lucene, Servlets, SQL, Hibernate, OAuth, and Tomcat/Jboss Web Servers;
 * M.A.Sc. student in the Department of Electrical and Computer Engineering at the University of British Columbia; Received **IEEE Best Paper Award** from the Sixth IEEE International Conference on Cloud Computing Technology and Science;
 * Knowledgeable in Advanced Algorithms, Machine Learning, Distributed systems, and Mobile Cloud Computing systems.
 
@@ -26,7 +26,7 @@ Cell: +1(778) 681 - 8922
 ##### **Java Engineer @Yidai Media Corporation (Vancouver, Canada)  Jul. 2015-Feb. 2016**
 Platforms that provide online-to-offline (O2O) shared economy services, which focus on local food searching and short/long distance trip, etc.; currently has over thousand cooperating restaurants, near hundred planned trip events, and a steady growing number of users.
     
-* Worked (with a team of six developers/designers) mainly on developing the back-end of the platform; Worked on different APIs for components such as online payment (stripe), social network authentication (WeChat and Facebook), customized front-end calendar (JQuery UI), content indexing (Lucene), etc.; Implemented Restful APIs to support the in-house built iOS application 
+* Worked (with a team of six developers/designers) mainly on developing the back-end of the platform; Worked on different APIs for components such as online payment (stripe), social (OAuth) network authentication (WeChat and Facebook), customized front-end calendar (JQuery UI), content indexing (Lucene), etc.; Implemented Restful APIs to support the in-house built iOS application 
 * Worked closely with fellow developers, UI designers, and members in business department to discuss the design and features needed, as well as the development timeframe; Participated in end-to-end development process; 
                 
 *Used: AngularJS, Grails, Velocity, HTML5, Javascript, JQuery, Lucene, Spring MVC, Spring Security, MySQL, MVN and Gradle.* 
