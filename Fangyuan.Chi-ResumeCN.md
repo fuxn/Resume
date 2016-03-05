@@ -49,5 +49,5 @@ Skype: chi.fyc89@gmail.com
 * 熟练掌握 Java, SQL, HTML5/XHTML, JavaScript/JQuery, C++ and VHDL等语言；
 * 熟练掌握 REST, Java REST client API for Android, Velocity, PrimeFaces, JFreeChart, Lucene, and MongoDB, JQuery UI, Stripe 等API；
 * 熟练掌握 Spring, Grails, AngularJS 等框架；
-* 熟练掌握 Eclipse, IntelliJ IDEA, Visual Studio, SVN, Github, 与 JIRA 等开发工具；
+* 熟练掌握 Eclipse, IntelliJ IDEA, Visual Studio, SVN, Git与 JIRA等开发工具；
 

@@ -57,4 +57,4 @@ Web-based Manufacturing Execution System (MES): a decomposed and reconfigurable 
 * **Technical Languages**: Java, SQL, HTML5/XHTML, JavaScript/JQuery, C++ and VHDL;
 * **APIs**: REST, Java REST client API for Android, PrimeFaces, JFreeChart, Lucene, and MongoDB, JQuery UI, Stripe;
 * **Framework**: Spring, Grails, AngularJS;
-* **Tools**: Eclipse, IntelliJ IDEA, Visual Studio, SVN, Github, and JIRA;
+* **Tools**: Eclipse, IntelliJ IDEA, Visual Studio, SVN, Git and JIRA;
