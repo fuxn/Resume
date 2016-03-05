@@ -6,7 +6,7 @@ Skype: chi.fyc89@gmail.com
 
 ## 自我描述
 
-* 一年半web-based以及安卓项目经验。 熟悉J2EE架构，熟练运用Java, HTML5/XHTML, JavaScript/JQuery, JQuery UI, Velocity, AngularJS, Spring Framework, MongoDB, MVC, Lucene, Servlets, SQL, Hibernate, and Tomcat/Jboss Web Servers;
+* 一年半web-based以及安卓项目经验。 熟悉J2EE架构，熟练运用Java, HTML5/XHTML, JavaScript/JQuery, JQuery UI, Velocity, AngularJS, Spring Framework, MongoDB, MVC, Lucene, Servlets, SQL, Hibernate, OAuth, and Tomcat/Jboss Web Servers;
 * 硕士研究生 @英属哥伦比亚大学电子与计算机工程系; 硕士期间曾获**IEEE最佳论文奖** (The Sixth IEEE International Conference on Cloud Computing Technology and Science). 
 * 熟悉Advanced Algorithms, Machine Learning, Distributed systems, 以及Mobile Cloud Computing systems.
 
