@@ -9,7 +9,7 @@ Cell: +1(778) 681 - 8922
 
 ## Brief Summary
 
-* One and half year of industrial experience in development of web-based applications, android applications and distributed systems; Experienced in developing software products using Java, HTML5/XHTML, JavaScript/JQuery, JQuery UI, Velocity, AngularJS, Spring Framework, MongoDB, MVC, Lucene, Servlets, SQL, Hibernate, OAuth, and Tomcat/Jboss Web Servers;
+* One and half year of industrial experience in development of web-based applications, android applications and distributed systems; Experienced in developing software products using Java, HTML5/XHTML, JavaScript/JQuery, JQuery UI, Velocity, AngularJS, Spring Framework, MongoDB, MVC, Lucene, Servlets, MySQL, Hibernate, OAuth, and Tomcat/Jboss Web Servers;
 * M.A.Sc. student in the Department of Electrical and Computer Engineering at the University of British Columbia; Received **IEEE Best Paper Award** from the Sixth IEEE International Conference on Cloud Computing Technology and Science;
 * Knowledgeable in Advanced Algorithms, Machine Learning, Distributed systems, and Mobile Cloud Computing systems.
 
